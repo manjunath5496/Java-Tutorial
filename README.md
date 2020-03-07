@@ -155,6 +155,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(5).pdf" style="text-decoration:none;">The Java Programming Language</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(6).pdf" style="text-decoration:none;">A Conversation with James Gosling</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(7).pdf" style="text-decoration:none;">The Java Language Environment</a></li>
 </ul>
 
 
