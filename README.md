@@ -78,6 +78,31 @@
 <div class="thumbcaption">&nbsp;</div>
 </div>
 </div>
+
+
+</br>
+<h2>Publications </h2>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(1).pdf" style="text-decoration:none;">UNIX Emacs: A Retrospective</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(2).pdf" style="text-decoration:none;">The Feel of Java</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(3).pdf" style="text-decoration:none;">The Java Language Specification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(4).pdf" style="text-decoration:none;">The Real-Time Specification for Java</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(5).pdf" style="text-decoration:none;">The Java Programming Language</a></li>
+
+</ul>
+
+
+</br>
+
+
+
+
+
+
+
+
 <div class="thumb tright">
 <div class="thumbinner"><a class="image" href="jos2.png"><img class="thumbimage" src="jos2.png" srcset="jos2.png" alt="" width="220" height="108" data-file-width="906" data-file-height="443" /></a>
 <div class="thumbcaption">
