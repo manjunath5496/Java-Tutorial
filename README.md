@@ -1431,6 +1431,34 @@ System.out.println("not a senior citizen");
  <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(9).pdf" style="text-decoration:none;">Why Java Was - Not - Standardized Twice</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(10).pdf" style="text-decoration:none;">Java Technology: The Early Years</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(11).pdf" style="text-decoration:none;">How Java's Floating-Point Hurts Everyone Everywhere</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(12).pdf" style="text-decoration:none;">Java Application Servers Report</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(13).pdf" style="text-decoration:none;">Chapel Language Specification: Version 0.98</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(14).pdf" style="text-decoration:none;">Doing Things with Java that Should Not Be Possible</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(15).pdf" style="text-decoration:none;">Loop Recognition in C++/Java/Go/Scala</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(16).pdf" style="text-decoration:none;">Why Java Will Always Be Slower than C++</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(17).pdf" style="text-decoration:none;">Comparison of C Sharp and Java</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(18).pdf" style="text-decoration:none;">Comparison of Java and C++</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(19).pdf" style="text-decoration:none;">List of JVM languages</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(20).pdf" style="text-decoration:none;">List of Java virtual machines</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(21).pdf" style="text-decoration:none;">List of Java APIs</a></li>
+
+
+
+
+
+
 </ul>
  
 
