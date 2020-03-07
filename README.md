@@ -1425,8 +1425,13 @@ System.out.println("not a senior citizen");
 
  </br>
 
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(8).pdf" style="text-decoration:none;">Java and Scala's Type Systems are Unsound</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(9).pdf" style="text-decoration:none;">Why Java Was - Not - Standardized Twice</a></li>
 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Java-Tutorial/blob/master/jvk(10).pdf" style="text-decoration:none;">Java Technology: The Early Years</a></li>
+</ul>
  
 
 
