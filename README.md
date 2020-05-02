@@ -100,7 +100,7 @@
 <li class="toclevel-2 tocsection-12"><a href="#Example_with_methods"><span class="toctext">Example with methods</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-13"><a href="#Special_classes"><span class="tocnumber">5</span><span class="toctext">Special classes</span></a>
+<li class="toclevel-1 tocsection-13"><a href="#Special_classes"><span class="toctext">Special classes</span></a>
 <ul>
 <li class="toclevel-2 tocsection-14"><a href="#Applet"><span class="toctext">Applet</span></a></li>
 <li class="toclevel-2 tocsection-15"><a href="#Servlet"><span class="toctext">Servlet</span></a></li>
